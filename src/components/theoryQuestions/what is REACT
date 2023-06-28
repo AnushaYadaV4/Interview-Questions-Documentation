@@ -1,0 +1,20 @@
+React is a front-end and open-source(software that is free to reuse, modify, and/or publish without permission.)
+JavaScript library which is useful in developing user interfaces specifically for applications with a single page.
+ It is helpful in building complex and reusable user interface(UI) components of mobile and web applications as it follows the component-based approach.(Each React app contains components that represent specific screens or elements in the app. Components are one of the basic building blocks of React, and they represent classes or functions that accept input and render the various HTML elements.)
+
+the advantages of using React?
+
+ Use of Virtual DOM to improve efficiency: React uses virtual DOM to render the view. As the name suggests, virtual DOM is a virtual representation of the real DOM. Each time the data changes in a react app, a new virtual DOM gets created. Creating a virtual DOM is much faster than rendering the UI inside the browser. Therefore, with the use of virtual DOM, the efficiency of the app improves.
+
+ React is easy to learn and use when compared to frameworks like Angular. Anyone with little knowledge of javascript can start building web applications using React.
+
+ and React is SEO FRIENDLY because Traditional JavaScript frameworks have an issue in dealing with SEO. The search engines generally having trouble in reading JavaScript-heavy applications. Many web developers have often complained about this problem. ReactJS overcomes this problem that helps developers to be easily navigated on various search engines. It is because React.js applications can run on the server, and the virtual DOM will be rendering and returning to the browser as a regular web page.
+
+ Today, ReactJS is choosing by most of the web developers. It is because it is offering a very rich JavaScript library. The JavaScript library provides more flexibility to the web developers to choose the way they want.
+
+ ReactJS applications are extremely easy to test. It offers a scope where the developer can test and debug their codes with the help of native tools.
+
+ Reusable components: React uses component-based architecture for developing applications. Components are independent and reusable bits of code. These components can be shared across various applications having similar functionality. The re-use of components increases the pace of development.
+
+
+ ------------------------------------------------------------------------------------------------------------------------------------------
